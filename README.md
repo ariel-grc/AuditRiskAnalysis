@@ -10,7 +10,7 @@ Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecur
 
 - <b>NIST Cybersecurity Framework (CSF) SP 800-53</b>
 - <b>NIST Cybersecurity Framework (CSF) SP 800-30</b> 
-- <b>Microsoft Excel</b
+- <b>Microsoft Excel</b>
 
 
 <h3><a href="https://1drv.ms/x/s!AsPRV-y52X3H3CFj6jjJ46Mrk7lZ?e=G4g1rz" align="left">Audit and Risk Analysis Report</a></h3>
