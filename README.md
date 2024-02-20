@@ -13,7 +13,7 @@ Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecur
 - <b>Microsoft Excel</b>
 
 
-<h3><a href="https://github.com/arielbethea/AuditRiskAnalysis/blob/main/ARIEL%20BETHEA%20SIMPLY%20CYBER%20GRC%20ANALYST%20AUDIT%20AND%20RISK%20ANALYSIS.xlsx" align="left">Audit and Risk Analysis Report</a></h3>
+<h3><a href="https://github.com/arielbethea/AuditRiskAnalysis/blob/main/ARIEL%20BETHEA%20SIMPLY%20CYBER%20GRC%20ANALYST%20AUDIT%20.pdf" align="left">Audit and Risk Analysis Report</a></h3>
 </p>
 
 <!--
