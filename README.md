@@ -9,7 +9,8 @@ Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecur
 <h2>Utilities Used</h2>
 
 - <b>NIST Cybersecurity Framework (CSF) SP 800-53</b>
-- <b>NIST Cybersecurity Framework (CSF) SP 800-30</b> 
+- <b>NIST SP 800-53</b>
+- <b>NIST SP 800-30</b>
 - <b>Microsoft Excel</b>
 
 
