@@ -1,21 +1,43 @@
-<h1>Audit and Risk Analysis</h1>
+# NIST Cybersecurity Audit & Risk Analysis 🔍
 
-<h2>Description</h2>
-Prepared, executed, and reported on audit of subset of NIST SP 800-53 cybersecurity controls to include interview, document review, and testing of systems to support compliance audit activities. Semi-quantitatively analyzed cybersecurity risk using NIST SP 800-30 methodology to identify the highest risk weaknesses for a system. Executed threat modeling exercise to determine higher likelihood threat events to inform cybersecurity risk modeling. 
+## Overview
+This project simulates a comprehensive cybersecurity audit and risk analysis for an information system, aligned with the NIST Risk Management Framework (RMF). It focuses on evaluating a subset of NIST SP 800-53 controls through audit activities and semi-quantitative risk assessment, following the NIST SP 800-30 methodology.
 
-<br />
+## Objectives
+- Assess compliance with selected NIST SP 800-53 controls through documentation review, interviews, and system testing.
+- Identify control implementation gaps and evaluate the associated risks.
+- Conduct a semi-quantitative cybersecurity risk analysis to prioritize system vulnerabilities.
+- Model threat scenarios to determine likely threat events and inform mitigation strategies.
 
+## Tools & Frameworks Used
+- **NIST SP 800-53** – Security and Privacy Controls for Information Systems
+- **NIST SP 800-30** – Guide for Conducting Risk Assessments
+- **NIST Cybersecurity Framework (CSF)**
+- **Microsoft Excel** – Risk analysis matrix and report preparation
 
-<h2>Utilities Used</h2>
+## Key Activities
+- ✅ Control audit (planning, interviewing, evidence gathering)
+- ✅ Threat modeling to simulate higher-likelihood threat events
+- ✅ Semi-quantitative risk scoring and prioritization
+- ✅ Executive summary and risk dashboard generation
 
-- <b>NIST Cybersecurity Framework (CSF)</b>
-- <b>NIST SP 800-53</b>
-- <b>NIST SP 800-30</b>
-- <b>Microsoft Excel</b>
+## Deliverables
+- [Final audit and risk analysis report including:](https://github.com/ariel-grc/healthcare-risk-management-methodology/blob/main/CareNova_Risk_Management_Methodology.pdf) 
+  - Control status
+  - Risk matrix and scoring
+  - Threat likelihood and impact analysis
+  - Recommendations for mitigation
 
+## Use Case
+Ideal for:
+- Demonstrating understanding of cybersecurity auditing processes.
+- Applying NIST frameworks in practical GRC (Governance, Risk, and Compliance) scenarios.
+- Showcasing the ability to analyze, model, and communicate cybersecurity risk.
 
-<h3><a href="https://github.com/arielbethea/AuditRiskAnalysis/blob/main/ARIEL%20BETHEA%20SIMPLY%20CYBER%20GRC%20ANALYST%20AUDIT%20.pdf" align="left">Audit and Risk Analysis Report</a></h3>
-</p>
+---
+
+**Note:** This project is a simulation for learning and portfolio purposes only. It does not evaluate a real-world organization.
+
 
 <!--
  ```diff
